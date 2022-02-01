@@ -7,22 +7,32 @@ numérica, programação orientada a objetos em python, e também inteligência
 computacional aplicada, entre outras, o que pode ajudar no desenvolvimento
 das atividades. Experiência com desenvolvimento em c++ na iniciação científica, inoções de Django, Html e CSS, estudando no momento .
 
-### Markdown
+## EXPERIÊNCIAS
+### INICIAÇÃO CIENTÍFICA 
+Grupo de Pesquisa em Prototipagem Rápida de Soluções para Telecomunições (Gppcom ) Atividades realizadas : Pesquisa sobre o sistemas wi-fi 5g 802.11ad, New Radio (Beamforming e Carrier Agregation) , treinamento no simulador de redes Ns-3 (C++) que possibilita abstração de vários pontos e dispositivosde redes, propicio testes por meio de simulações no computador, sendo essas também executadas pelo núcleo de Processamento de Alto Desempenho - NPAD, garantindo um melhor desempenho. Acompanhamento dos trabalhos com participação semanal em reuniõespor grupo, reuniões gerais na qual são apresentados os temas pelos
+membros dos grupos.
+### Monitoria 
+Monitoria na disciplina de laboratório e de Prototipagem de Sistemas de Comunicação, revisão dos Hands ons, acompanhamento das aulas.
+### Estágio 
+IPEM - Instituto De Pesos E Medidas Do RN Atividades Realizadas : No IPEM/RN realizou atividades de apoio técnico, manutenção de hardware incluindo equipamentos de rede e instalação de software.
+### BOLSISTA
+Laboratório de Comunicações sem fio, simulação e prototipagem de sistemas (Labsim) Atividades Realizadas : No Labsim executou atividades deapoio técnico, acompanhamento das aulas e minicursos ministradas no Laboratório, junto com o atendimento aos usuários.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### HABILIDADES E ATIVIDADES
+- Ferramentas Git hub, Jupyter Notebook, Overleaf (Latex).
+- Linguagens de Programação: Python, C++, java.
+- Noções de Linux.
+- Cursos Online como Introdução a Redes de Computadores Escola Virtual Bradesco.
+- Trabalho Voluntário na Semana de Ciência Tecnologia e Cultura (Cientec).
+- Participação III Workshop do GppCom.
+- Participação na V semana de engenharia de Telecomunicações.
+- Mini Atividade - Infraestrutura e Projeto de Rede Óptica Passiva.
+- Participação no Telecom Day.
+### FORMAÇÃO
+#### ENGENHARIA DE TELECOMUNICAÇÕES
+Universidade Federal do Rio Grande do Norte(2018.2 - 2022)
+#### CIÊNCIAS E TECNOLOGIA
+Universidade Federal do Rio Grande do Norte(2014 -20108)
 
 **Bold** and _Italic_ and `Code` text
 
