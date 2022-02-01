@@ -1,5 +1,7 @@
 ## Currículo Ravan Novaes de Oliveira
 
+Telefone: 8499109936   E-mail: ravan.novaes.100@ufrn.edu.br
+
 Atuar nas atividades apresentadas referente a vaga de estágio, contribuindo
 com ambiente inserido e desenvolvendo habilidades, o candidato já pagou
 matérias de lógica de programação, linguagem de programação, computação
@@ -15,8 +17,28 @@ membros dos grupos.
 Monitoria na disciplina de laboratório e de Prototipagem de Sistemas de Comunicação, revisão dos Hands ons, acompanhamento das aulas.
 ### Estágio 
 IPEM - Instituto De Pesos E Medidas Do RN Atividades Realizadas : No IPEM/RN realizou atividades de apoio técnico, manutenção de hardware incluindo equipamentos de rede e instalação de software.
-### BOLSISTA
+### Bolsista
 Laboratório de Comunicações sem fio, simulação e prototipagem de sistemas (Labsim) Atividades Realizadas : No Labsim executou atividades deapoio técnico, acompanhamento das aulas e minicursos ministradas no Laboratório, junto com o atendimento aos usuários.
+
+### PUBLICAÇÕES
+
+### I Encontro de Computação do Oeste Potiguar – Pocket 
+
+Prototipagem de sistemas IEEE802.11ad usando o ns-3 (coautor)
+
+https://periodicos.ufersa.edu.br/index.php/ecop/article/view/10125
+
+### ENCOM 2020 X Conferência Nacional em Comunicações, Redes e Segurança da Informação
+
+1-Simulador ns-3 como Ferramenta de Prototipagem de Funcionalidades do Wi-Fi. (autor)
+
+Link sessão técnica : https://www.youtube.com/watch?v=7btE9g5-gtM 
+
+2-QoS no Wi-Fi 5: uma análise com o ns-3 (coautor)
+
+### ENCOM 2021 XI Conferência Nacional em Comunicações, Redes e Segurança da Informação.
+
+Análise de Desempenho de Algoritmos de Formatação de Feixes no NR usando o ns-3.(coautor)
 
 ### HABILIDADES E ATIVIDADES
 - Ferramentas Git hub, Jupyter Notebook, Overleaf (Latex).
@@ -28,23 +50,11 @@ Laboratório de Comunicações sem fio, simulação e prototipagem de sistemas (
 - Participação na V semana de engenharia de Telecomunicações.
 - Mini Atividade - Infraestrutura e Projeto de Rede Óptica Passiva.
 - Participação no Telecom Day.
+
 ### FORMAÇÃO
+
 #### ENGENHARIA DE TELECOMUNICAÇÕES
-Universidade Federal do Rio Grande do Norte(2018.2 - 2022)
+Universidade Federal do Rio Grande do Norte(2018.2 - 2022.1).
+
 #### CIÊNCIAS E TECNOLOGIA
-Universidade Federal do Rio Grande do Norte(2014 -20108)
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ravannovaes/curr-culo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Universidade Federal do Rio Grande do Norte(2014 -2018.2).
