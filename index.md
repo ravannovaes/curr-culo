@@ -1,8 +1,11 @@
 ## Currículo Ravan Novaes de Oliveira
 
-You can use the [editor on GitHub](https://github.com/ravannovaes/curr-culo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Atuar nas atividades apresentadas referente a vaga de estágio, contribuindo
+com ambiente inserido e desenvolvendo habilidades, o candidato já pagou
+matérias de lógica de programação, linguagem de programação, computação
+numérica, programação orientada a objetos em python, e também inteligência
+computacional aplicada, entre outras, o que pode ajudar no desenvolvimento
+das atividades. Experiência com desenvolvimento em c++ na iniciação científica, inoções de Django, Html e CSS, estudando no momento .
 
 ### Markdown
 
