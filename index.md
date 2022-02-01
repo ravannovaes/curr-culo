@@ -7,7 +7,7 @@ com ambiente inserido e desenvolvendo habilidades, o candidato já pagou
 matérias de lógica de programação, linguagem de programação, computação
 numérica, programação orientada a objetos em python, e também inteligência
 computacional aplicada, entre outras, o que pode ajudar no desenvolvimento
-das atividades. Experiência com desenvolvimento em c++ na iniciação científica, inoções de Django, Html e CSS, estudando no momento .
+das atividades. Experiência com desenvolvimento em c++ na iniciação científica,noções de Django, Html e CSS, estudando no momento .
 
 ## EXPERIÊNCIAS
 ### INICIAÇÃO CIENTÍFICA 
